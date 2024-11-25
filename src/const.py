@@ -1,6 +1,6 @@
 # screen dimensions 
-witdh=800
-height=800
+witdh=600
+height=600
 
 #board-d
 cols=8
